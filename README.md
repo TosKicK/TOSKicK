@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Abhiroop Banerjee
 
-### 🤖 AI/ML Engineer | GenAI | NLP | RAG | Full-Stack Developer
+### 🤖 AI/ML Engineer | Generative AI | NLP | RAG | Full-Stack Development
 
 🎓 M.Tech CSE (AI/ML) @ **PES University, Bengaluru**
 💻 B.Tech CSE @ **SRM IST, Chennai**
 
-I build **AI-powered applications, machine learning systems, and full-stack web applications**, with a growing focus on **Generative AI, LLMs, RAG pipelines, NLP, and AI agents**.
+I build **AI-powered applications, machine learning systems, and full-stack web applications**, with a growing focus on **Generative AI, LLMs, Retrieval-Augmented Generation, NLP, and AI agents**.
 
 ---
 
@@ -13,8 +13,8 @@ I build **AI-powered applications, machine learning systems, and full-stack web 
 
 * 🎓 M.Tech Computer Science (AI/ML) student
 * 🤖 Interested in **Generative AI, LLMs, NLP & Machine Learning**
-* 🔎 Building applications with **RAG & vector search**
-* 🌐 Full-stack developer with **React, Node.js & Express**
+* 🔎 Building applications with **RAG and vector search**
+* 🌐 Full-stack development with **React, Node.js & Express**
 * 🐍 Working with **Python and modern ML tooling**
 * 📚 Currently strengthening **DSA, System Design & AI/ML**
 * 🚀 Interested in building practical, production-oriented software
@@ -29,7 +29,7 @@ A full-stack AI application focused on intelligent conversations and document-ba
 
 **Tech Stack**
 
-`React` `Express.js` `LangChain` `HuggingFace` `OpenRouter`
+`React` `Express.js` `LangChain` `HuggingFace` `OpenRouter API`
 
 **Highlights**
 
@@ -44,33 +44,27 @@ A full-stack AI application focused on intelligent conversations and document-ba
 
 ---
 
-### 🛍️ Interactive Product Explorer
+### 🏠 House Price Prediction — End-to-End ML Web Application
 
-A responsive product discovery application built with React, TypeScript and Vite.
+An end-to-end machine learning application for predicting real-estate prices from historical housing data.
 
 **Tech Stack**
 
-`React` `TypeScript` `Vite` `Styled Components`
+`Python` `Flask` `Scikit-Learn` `HTML` `CSS` `JavaScript`
 
 **Highlights**
 
-* 🔍 Product search
-* 🗂️ Category filtering
-* ↕️ Sorting
-* 📄 Pagination
-* 🪟 Product detail modal
-* 💀 Loading skeletons
-* ✨ Responsive UI and animations
-
-🌐 **[Live Demo](https://interactive-product-explorer-hasx.vercel.app/)**
-
-💻 **[Source Code](https://github.com/TosKicK/interactive-product-explorer)**
+* 📊 Built a regression-based machine learning pipeline
+* 🏠 Predicts real-estate prices from historical housing data
+* ⚡ Developed a Flask REST API for real-time predictions
+* 🌐 Created an interactive web interface
+* 🔄 Connected the ML model with a web-based prediction workflow
 
 ---
 
-### 📺 VidTube — YouTube Clone
+### 📺 VidTube — Video Streaming Web Application
 
-A YouTube-style video application built with React and designed around video browsing and search.
+A YouTube-style video streaming application built using React and Material UI.
 
 **Tech Stack**
 
@@ -78,51 +72,13 @@ A YouTube-style video application built with React and designed around video bro
 
 **Highlights**
 
-* 📺 Video browsing interface
-* 🔎 Video search
-* 🧩 Component-based architecture
-* 📱 Responsive UI
-* 🌐 Deployed web application
-
-🌐 **[Live Demo](https://utubeclonev2.netlify.app/)**
+* 📺 YouTube-style video browsing interface
+* 🔎 Integrated third-party video API
+* 🧩 Component-based React architecture
+* 📱 Responsive design for desktop and mobile
+* 🎬 Video content browsing and search
 
 💻 **[Source Code](https://github.com/TosKicK/youtubeClone)**
-
-The repository currently points to the deployed VidTube application.
-
----
-
-### 🔐 Automated Cipher Cracker
-
-A Python project focused on automated cryptographic analysis.
-
-**Tech Stack**
-
-`Python` `Cryptography` `Algorithms`
-
-💻 **[Source Code](https://github.com/TosKicK/Automated-Cipher-Cracker)**
-
----
-
-### 📊 Sorting Visualizer
-
-An interactive visualization project demonstrating sorting algorithms.
-
-**Tech Stack**
-
-`JavaScript` `HTML` `CSS`
-
-💻 **[Source Code](https://github.com/TosKicK/Sorting-Visualizer)**
-
----
-
-### 🌐 Personal Portfolio
-
-My personal developer portfolio showcasing my projects, technical skills and experience.
-
-💻 **[Source Code](https://github.com/TosKicK/Portfolio)**
-
-🌐 **[Live Portfolio](https://toskick.github.io/Portfolio/)**
 
 ---
 
@@ -140,7 +96,7 @@ My personal developer portfolio showcasing my projects, technical skills and exp
 <img src="https://img.shields.io/badge/FAISS-Vector_Search-0468D7?style=for-the-badge"/>
 </p>
 
-### 🌐 Full-Stack Development
+### 🌐 Development
 
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -150,7 +106,7 @@ My personal developer portfolio showcasing my projects, technical skills and exp
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 </p>
 
-### 💻 Languages
+### 💻 Programming Languages
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -223,7 +179,7 @@ Co-founded and helped organize multiple cultural events on campus.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TosKicK&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TosKicK&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TosKicK&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
