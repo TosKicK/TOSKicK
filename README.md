@@ -1,27 +1,23 @@
-# Hi 👋, I'm Abhiroop Banerjee
+# 👋 Hi, I'm Abhiroop Banerjee
 
-### 🤖 AI/ML Engineer | Machine Learning | NLP | Generative AI & RAG
+### 🤖 AI/ML Engineer | GenAI | NLP | RAG | Full-Stack Developer
 
-🎓 M.Tech Computer Science (AI/ML) @ **PES University, Bengaluru**
-💻 B.Tech Computer Science @ **SRM IST, Chennai**
-🚀 Building AI-powered applications, ML systems, and full-stack web applications.
+🎓 M.Tech CSE (AI/ML) @ **PES University, Bengaluru**
+💻 B.Tech CSE @ **SRM IST, Chennai**
+
+I build **AI-powered applications, machine learning systems, and full-stack web applications**, with a growing focus on **Generative AI, LLMs, RAG pipelines, NLP, and AI agents**.
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
-I'm an **M.Tech Computer Science (AI/ML) student** passionate about building practical AI and software systems.
-
-My current interests include:
-
-* 🤖 Machine Learning & NLP
-* 🧠 Generative AI & LLM applications
-* 🔎 Retrieval-Augmented Generation (RAG)
-* 🌐 Full-Stack Development
-* 🏗️ REST APIs & ML-powered applications
-* 📊 Data Science & Predictive Modeling
-
-Currently exploring **LLMs, RAG architectures, AI agents, and production-oriented ML systems**.
+* 🎓 M.Tech Computer Science (AI/ML) student
+* 🤖 Interested in **Generative AI, LLMs, NLP & Machine Learning**
+* 🔎 Building applications with **RAG & vector search**
+* 🌐 Full-stack developer with **React, Node.js & Express**
+* 🐍 Working with **Python and modern ML tooling**
+* 📚 Currently strengthening **DSA, System Design & AI/ML**
+* 🚀 Interested in building practical, production-oriented software
 
 ---
 
@@ -29,110 +25,181 @@ Currently exploring **LLMs, RAG architectures, AI agents, and production-oriente
 
 ### 🤖 Nexus-AI — AI-Powered Research & Coding Assistant
 
-> Full-stack AI chatbot with Retrieval-Augmented Generation capabilities.
+A full-stack AI application focused on intelligent conversations and document-based question answering.
 
-**Tech:** React.js · Express.js · LangChain · HuggingFace · OpenRouter API
+**Tech Stack**
 
-* Built a full-stack AI chatbot with React and Express.js.
-* Integrated OpenRouter APIs for LLM-powered responses.
-* Implemented a **RAG pipeline** using LangChain and HuggingFace embeddings.
-* Added document chunking and vector search for context-grounded responses.
-* Supports multi-format document ingestion including PDF and text files.
+`React` `Express.js` `LangChain` `HuggingFace` `OpenRouter`
 
-🔗 **[Live Demo](YOUR_NEXUS_AI_LINK)**
+**Highlights**
 
----
+* 🧠 LLM-powered conversational interface
+* 🔎 Retrieval-Augmented Generation (RAG)
+* 📄 Multi-format document ingestion
+* 🧩 Document chunking and vector search
+* ⚡ React + Express full-stack architecture
+* 💬 Context-aware responses using uploaded documents
 
-### 🏠 House Price Prediction
-
-> End-to-end machine learning web application for real-estate price prediction.
-
-**Tech:** Python · Flask · Scikit-Learn · HTML · CSS · JavaScript
-
-* Built a regression-based ML pipeline for house price prediction.
-* Developed a Flask REST API for real-time predictions.
-* Created an interactive web interface for user inputs and predictions.
-
-🔗 **[View Repository](YOUR_REPOSITORY_LINK)**
+🌐 **[Live Demo](https://nexus-ai-bay-pi.vercel.app/)**
 
 ---
 
-### 📺 VidTube
+### 🛍️ Interactive Product Explorer
 
-> YouTube-style video streaming application built with React.
+A responsive product discovery application built with React, TypeScript and Vite.
 
-**Tech:** React.js · Material UI · Video API
+**Tech Stack**
 
-* Developed a component-based video streaming interface.
-* Integrated a third-party video API for content browsing and search.
-* Implemented responsive design for desktop and mobile devices.
+`React` `TypeScript` `Vite` `Styled Components`
 
-🔗 **[View Repository](YOUR_REPOSITORY_LINK)**
+**Highlights**
+
+* 🔍 Product search
+* 🗂️ Category filtering
+* ↕️ Sorting
+* 📄 Pagination
+* 🪟 Product detail modal
+* 💀 Loading skeletons
+* ✨ Responsive UI and animations
+
+🌐 **[Live Demo](https://interactive-product-explorer-hasx.vercel.app/)**
+
+💻 **[Source Code](https://github.com/TosKicK/interactive-product-explorer)**
+
+---
+
+### 📺 VidTube — YouTube Clone
+
+A YouTube-style video application built with React and designed around video browsing and search.
+
+**Tech Stack**
+
+`React.js` `Material UI` `Video API`
+
+**Highlights**
+
+* 📺 Video browsing interface
+* 🔎 Video search
+* 🧩 Component-based architecture
+* 📱 Responsive UI
+* 🌐 Deployed web application
+
+🌐 **[Live Demo](https://utubeclonev2.netlify.app/)**
+
+💻 **[Source Code](https://github.com/TosKicK/youtubeClone)**
+
+The repository currently points to the deployed VidTube application.
+
+---
+
+### 🔐 Automated Cipher Cracker
+
+A Python project focused on automated cryptographic analysis.
+
+**Tech Stack**
+
+`Python` `Cryptography` `Algorithms`
+
+💻 **[Source Code](https://github.com/TosKicK/Automated-Cipher-Cracker)**
+
+---
+
+### 📊 Sorting Visualizer
+
+An interactive visualization project demonstrating sorting algorithms.
+
+**Tech Stack**
+
+`JavaScript` `HTML` `CSS`
+
+💻 **[Source Code](https://github.com/TosKicK/Sorting-Visualizer)**
+
+---
+
+### 🌐 Personal Portfolio
+
+My personal developer portfolio showcasing my projects, technical skills and experience.
+
+💻 **[Source Code](https://github.com/TosKicK/Portfolio)**
+
+🌐 **[Live Portfolio](https://toskick.github.io/Portfolio/)**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Programming
+### 🤖 AI / Machine Learning
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FAISS-Vector_Search-0468D7?style=for-the-badge"/>
+</p>
 
-### 🤖 AI / ML / NLP
+### 🌐 Full-Stack Development
 
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+</p>
 
-### 🌐 Development
+### 💻 Languages
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
 ### 🔧 Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</p>
 
 ---
 
 ## 📚 Currently Learning
 
 ```text
-Generative AI
-     ↓
-LLMs & Prompt Engineering
-     ↓
-RAG & Vector Search
-     ↓
-AI Agents
-     ↓
-Production ML Systems
+🤖 Generative AI
+   ├── LLM Applications
+   ├── RAG Systems
+   ├── Vector Search
+   ├── AI Agents
+   └── LangChain / LangGraph
+
+🧠 Machine Learning
+   ├── NLP
+   ├── Model Development
+   ├── Data Processing
+   └── ML Deployment
+
+💻 Software Engineering
+   ├── Data Structures & Algorithms
+   ├── System Design
+   ├── Backend Development
+   └── Database Systems
 ```
-
-Alongside AI/ML, I'm strengthening my:
-
-* Data Structures & Algorithms
-* System Design
-* Backend Development
-* SQL & Database Management
-* Machine Learning fundamentals
 
 ---
 
 ## 🎓 Education
 
 **M.Tech — Computer Science (AI/ML)**
-PES University, Bengaluru | 2025–2027
+PES University, Bengaluru | Expected 2027
 SGPA: **8.27 / 10**
 
 **B.Tech — Computer Science & Engineering**
@@ -153,13 +220,20 @@ Co-founded and helped organize multiple cultural events on campus.
 
 ---
 
-## 📜 Certifications
+## 📊 GitHub Stats
 
-* Angular Essential Training — LinkedIn Learning
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TosKicK&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TosKicK&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=TosKicK&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
 <p align="left">
 
@@ -179,6 +253,6 @@ Co-founded and helped organize multiple cultural events on campus.
 
 ---
 
-### 💡 "Building intelligent systems that solve real-world problems."
+### 💡 Building intelligent systems that solve real-world problems.
 
-⭐ Feel free to explore my repositories and connect with me!
+⭐ **Explore my repositories and feel free to connect!**
